@@ -6,7 +6,7 @@ Save editor for Sword Art Online: Hollow Realization (PSVita/Switch/PC).
 
 This project is **not** mine. I'm putting on GitHub just for preservation. The real developer is [Falo](https://gbatemp.net/members/falo.310561/) who can contact me if there's a need to remove this repository.
 
-You can find the code and a builded version in this GBATemp thread [Thread](https://gbatemp.net/threads/is-it-possible-to-transfer-a-save-data-of-sao-hr-de-from-pc-to-nintendo-switch.537976/).
+You can find the code and a builded version in this GBATemp [Thread](https://gbatemp.net/threads/is-it-possible-to-transfer-a-save-data-of-sao-hr-de-from-pc-to-nintendo-switch.537976/).
 
 ## Important
 
